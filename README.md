@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Ideas para el Cambio Social
 
 You can use the [editor on GitHub](https://github.com/darwin-vz/social-change/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
